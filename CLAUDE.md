@@ -11,7 +11,7 @@ This is a static web presentation for a Learning Management System (LMS) module 
 - **index.html** - Main entry point with tab navigation (Overview, Roadmap Sviluppo, Demo)
 - **views/** - Contains HTML content loaded dynamically for each tab:
   - `overview-content.html` - LMS project description, GiveMeHive integration, problem/solution analysis, workflow, course categories, ROI
-  - `analysis-content.html` - Development roadmap with 5 weekly sprints detailed plan, deliverables, and marketing automation integration
+  - `analysis-content.html` - Development roadmap with 6 bi-weekly sprints (2 weeks each) detailed plan, deliverables, and marketing automation integration
   - `demo-content.html` - Comprehensive UI mockups: admin backoffice, client portal, mobile employee interface, video player, quizzes, certificates, document management
 - **assets/** - Static resources:
   - `css/styles.css` - Custom styles including brand colors and component styles
@@ -84,6 +84,6 @@ The presentation describes a comprehensive LMS platform for Ru.di SNC with:
 - Automated expiration tracking and multi-channel notifications (email/WhatsApp)
 - Full integration with existing GiveMeHive features (CRM, digital quotes, electronic signature, email/WhatsApp marketing)
 - Course categories: HACCP, Workplace Safety, Fire Prevention, First Aid
-- 5-week sprint-based agile implementation approach
+- 6 bi-weekly sprint-based agile implementation approach (12 weeks total)
 - PDF certificate generation compliant with EU regulations (Reg. 852/2004, D.Lgs. 81/2008)
 - Marketing automation for course renewals and customer reactivation
